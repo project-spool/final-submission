@@ -41,7 +41,7 @@ Once the program is finished running, you can find all of the results in `json` 
 ## Visualization Compilation
 Inside of `viz` contains an `index.html` file which contains a complete interactive data visualization of our best clustering results. To most easily compile this, open the `viz` folder with the text editor Brackets and create a live preview.
 
-The visualization requires a local server in order to dynamically read in `json` files, so you can also run a simple server by running something like `python -m SimpleHTTPServer 8888 &` and then loading the page on `localhost:8888`, but I haven't thoroughly tested this. So opening the viz inside of Brackets is probably the best move.
+The visualization requires a local server in order to dynamically read in `json` files, so you can also run a simple server by running something like `python -m SimpleHTTPServer 8888 &` and then load the page on `localhost:8888`, but I haven't thoroughly tested this. So opening the viz inside of Brackets is probably the best move.
 
 A link to download Brackets if you don't have it: http://brackets.io. The live preview is the top right lightning bolt button.
 
