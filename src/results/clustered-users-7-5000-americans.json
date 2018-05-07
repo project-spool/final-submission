@@ -1,0 +1,139 @@
+{
+    "name": "5000 Last.fm Users",
+    "children": [
+        {
+            "name": "nine inch nails",
+            "children": [
+                {
+                    "name": "nine inch nails",
+                    "size": 176
+                },
+                {
+                    "name": "radiohead",
+                    "size": 45
+                },
+                {
+                    "name": "tool",
+                    "size": 40
+                }
+            ]
+        },
+        {
+            "name": "death cab for cutie",
+            "children": [
+                {
+                    "name": "death cab for cutie",
+                    "size": 297
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 358
+                },
+                {
+                    "name": "radiohead",
+                    "size": 86
+                },
+                {
+                    "name": "bob dylan",
+                    "size": 74
+                }
+            ]
+        },
+        {
+            "name": "bright eyes",
+            "children": [
+                {
+                    "name": "bright eyes",
+                    "size": 91
+                },
+                {
+                    "name": "elliott smith",
+                    "size": 58
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 42
+                },
+                {
+                    "name": "the beatles",
+                    "size": 30
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 25
+                },
+                {
+                    "name": "radiohead",
+                    "size": 24
+                },
+                {
+                    "name": "brand new",
+                    "size": 23
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 21
+                },
+                {
+                    "name": "rilo kiley",
+                    "size": 21
+                }
+            ]
+        },
+        {
+            "name": "modest mouse",
+            "children": [
+                {
+                    "name": "modest mouse",
+                    "size": 164
+                },
+                {
+                    "name": "the mountain goats",
+                    "size": 101
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 98
+                },
+                {
+                    "name": "animal collective",
+                    "size": 96
+                },
+                {
+                    "name": "of montreal",
+                    "size": 90
+                },
+                {
+                    "name": "the beatles",
+                    "size": 87
+                },
+                {
+                    "name": "belle and sebastian",
+                    "size": 84
+                }
+            ]
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 402
+                },
+                {
+                    "name": "the beatles",
+                    "size": 108
+                }
+            ]
+        }
+    ]
+}

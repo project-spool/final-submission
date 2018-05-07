@@ -1,0 +1,89 @@
+{
+    "name": "5000 Last.fm Users",
+    "children": [
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "nine inch nails",
+            "children": [
+                {
+                    "name": "nine inch nails",
+                    "size": 126
+                },
+                {
+                    "name": "radiohead",
+                    "size": 29
+                },
+                {
+                    "name": "marilyn manson",
+                    "size": 28
+                },
+                {
+                    "name": "tool",
+                    "size": 28
+                }
+            ]
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 487
+                },
+                {
+                    "name": "the beatles",
+                    "size": 133
+                }
+            ]
+        },
+        {
+            "name": "death cab for cutie",
+            "children": [
+                {
+                    "name": "death cab for cutie",
+                    "size": 315
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 150
+                },
+                {
+                    "name": "bright eyes",
+                    "size": 146
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 116
+                },
+                {
+                    "name": "elliott smith",
+                    "size": 108
+                },
+                {
+                    "name": "the decemberists",
+                    "size": 93
+                }
+            ]
+        },
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 434
+                },
+                {
+                    "name": "bob dylan",
+                    "size": 91
+                },
+                {
+                    "name": "radiohead",
+                    "size": 91
+                }
+            ]
+        }
+    ]
+}

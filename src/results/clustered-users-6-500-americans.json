@@ -1,0 +1,330 @@
+{
+    "name": "500 Last.fm Users",
+    "children": [
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 53
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 24
+                },
+                {
+                    "name": "coldplay",
+                    "size": 15
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 14
+                }
+            ]
+        },
+        {
+            "name": "weezer",
+            "children": [
+                {
+                    "name": "weezer",
+                    "size": 3
+                },
+                {
+                    "name": "blink-182",
+                    "size": 2
+                },
+                {
+                    "name": "bob dylan",
+                    "size": 2
+                },
+                {
+                    "name": "rivers cuomo",
+                    "size": 2
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 2
+                },
+                {
+                    "name": "the smashing pumpkins",
+                    "size": 2
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 1
+                },
+                {
+                    "name": "jimi hendrix",
+                    "size": 1
+                },
+                {
+                    "name": "green day",
+                    "size": 1
+                },
+                {
+                    "name": "hot hot heat",
+                    "size": 1
+                },
+                {
+                    "name": "the white stripes",
+                    "size": 1
+                },
+                {
+                    "name": "the kinks",
+                    "size": 1
+                },
+                {
+                    "name": "yuichiro fujimoto",
+                    "size": 1
+                },
+                {
+                    "name": "paramore",
+                    "size": 1
+                },
+                {
+                    "name": "zebrahead",
+                    "size": 1
+                },
+                {
+                    "name": "ben folds",
+                    "size": 1
+                },
+                {
+                    "name": "modwheelmood",
+                    "size": 1
+                },
+                {
+                    "name": "django reinhardt",
+                    "size": 1
+                },
+                {
+                    "name": "foo fighters",
+                    "size": 1
+                },
+                {
+                    "name": "new found glory",
+                    "size": 1
+                },
+                {
+                    "name": "the shins",
+                    "size": 1
+                },
+                {
+                    "name": "kings of leon",
+                    "size": 1
+                },
+                {
+                    "name": "red hot chili peppers",
+                    "size": 1
+                },
+                {
+                    "name": "smash mouth",
+                    "size": 1
+                },
+                {
+                    "name": "slipknot",
+                    "size": 1
+                },
+                {
+                    "name": "against me!",
+                    "size": 1
+                },
+                {
+                    "name": "radiohead",
+                    "size": 1
+                },
+                {
+                    "name": "arctic monkeys",
+                    "size": 1
+                },
+                {
+                    "name": "silversun pickups",
+                    "size": 1
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 1
+                },
+                {
+                    "name": "seu jorge",
+                    "size": 1
+                },
+                {
+                    "name": "system of a down",
+                    "size": 1
+                },
+                {
+                    "name": "coldplay",
+                    "size": 1
+                },
+                {
+                    "name": "incubus",
+                    "size": 1
+                },
+                {
+                    "name": "rilo kiley",
+                    "size": 1
+                },
+                {
+                    "name": "bob marley",
+                    "size": 1
+                },
+                {
+                    "name": "linkin park",
+                    "size": 1
+                },
+                {
+                    "name": "the whitest boy alive",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "bright eyes",
+            "children": [
+                {
+                    "name": "bright eyes",
+                    "size": 12
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 10
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 10
+                },
+                {
+                    "name": "the decemberists",
+                    "size": 8
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 8
+                },
+                {
+                    "name": "iron & wine",
+                    "size": 8
+                },
+                {
+                    "name": "the mountain goats",
+                    "size": 7
+                },
+                {
+                    "name": "elliott smith",
+                    "size": 6
+                },
+                {
+                    "name": "brand new",
+                    "size": 5
+                },
+                {
+                    "name": "minus the bear",
+                    "size": 5
+                },
+                {
+                    "name": "the beatles",
+                    "size": 4
+                },
+                {
+                    "name": "cursive",
+                    "size": 4
+                },
+                {
+                    "name": "rilo kiley",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 45
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 11
+                },
+                {
+                    "name": "radiohead",
+                    "size": 10
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 9
+                }
+            ]
+        },
+        {
+            "name": "a perfect circle",
+            "children": [
+                {
+                    "name": "a perfect circle",
+                    "size": 1
+                },
+                {
+                    "name": "disturbed",
+                    "size": 1
+                },
+                {
+                    "name": "tool",
+                    "size": 1
+                },
+                {
+                    "name": "depeche mode",
+                    "size": 1
+                },
+                {
+                    "name": "breaking benjamin",
+                    "size": 1
+                },
+                {
+                    "name": "limp bizkit",
+                    "size": 1
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 1
+                },
+                {
+                    "name": "byzantine",
+                    "size": 1
+                },
+                {
+                    "name": "system of a down",
+                    "size": 1
+                },
+                {
+                    "name": "coldplay",
+                    "size": 1
+                },
+                {
+                    "name": "johnny cash",
+                    "size": 1
+                },
+                {
+                    "name": "soundtrack",
+                    "size": 1
+                },
+                {
+                    "name": "pendulum",
+                    "size": 1
+                },
+                {
+                    "name": "linkin park",
+                    "size": 1
+                },
+                {
+                    "name": "activision",
+                    "size": 1
+                }
+            ]
+        }
+    ]
+}

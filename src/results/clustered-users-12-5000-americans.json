@@ -1,0 +1,488 @@
+{
+    "name": "5000 Last.fm Users",
+    "children": [
+        {
+            "name": "fall out boy",
+            "children": [
+                {
+                    "name": "fall out boy",
+                    "size": 2
+                },
+                {
+                    "name": "angels & airwaves",
+                    "size": 1
+                },
+                {
+                    "name": "the all-american rejects",
+                    "size": 1
+                },
+                {
+                    "name": "john mayer",
+                    "size": 1
+                },
+                {
+                    "name": "motion city soundtrack",
+                    "size": 1
+                },
+                {
+                    "name": "jack's mannequin",
+                    "size": 1
+                },
+                {
+                    "name": "forever the sickest kids",
+                    "size": 1
+                },
+                {
+                    "name": "michael bublé",
+                    "size": 1
+                },
+                {
+                    "name": "new found glory",
+                    "size": 1
+                },
+                {
+                    "name": "guster",
+                    "size": 1
+                },
+                {
+                    "name": "bright eyes",
+                    "size": 1
+                },
+                {
+                    "name": "flickerstick",
+                    "size": 1
+                },
+                {
+                    "name": "jason mraz",
+                    "size": 1
+                },
+                {
+                    "name": "stabilo",
+                    "size": 1
+                },
+                {
+                    "name": "norah jones",
+                    "size": 1
+                },
+                {
+                    "name": "the rocket summer",
+                    "size": 1
+                },
+                {
+                    "name": "far-less",
+                    "size": 1
+                },
+                {
+                    "name": "the corrs",
+                    "size": 1
+                },
+                {
+                    "name": "panic! at the disco",
+                    "size": 1
+                },
+                {
+                    "name": "minus the bear",
+                    "size": 1
+                },
+                {
+                    "name": "lifetime",
+                    "size": 1
+                },
+                {
+                    "name": "broadway calls",
+                    "size": 1
+                },
+                {
+                    "name": "vertical horizon",
+                    "size": 1
+                },
+                {
+                    "name": "colbie caillat",
+                    "size": 1
+                },
+                {
+                    "name": "the red jumpsuit apparatus",
+                    "size": 1
+                },
+                {
+                    "name": "edwin mccain",
+                    "size": 1
+                },
+                {
+                    "name": "gym class heroes",
+                    "size": 1
+                },
+                {
+                    "name": "captain jack",
+                    "size": 1
+                },
+                {
+                    "name": "forgive durden",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 505
+                },
+                {
+                    "name": "the beatles",
+                    "size": 137
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 136
+                }
+            ]
+        },
+        {
+            "name": "duran duran",
+            "children": [
+                {
+                    "name": "duran duran",
+                    "size": 1
+                },
+                {
+                    "name": "diary of dreams",
+                    "size": 1
+                },
+                {
+                    "name": "x japan",
+                    "size": 1
+                },
+                {
+                    "name": "david bowie",
+                    "size": 1
+                },
+                {
+                    "name": "a-ha",
+                    "size": 1
+                },
+                {
+                    "name": "gino vannelli",
+                    "size": 1
+                },
+                {
+                    "name": "deep purple",
+                    "size": 1
+                },
+                {
+                    "name": "london after midnight",
+                    "size": 1
+                },
+                {
+                    "name": "björk",
+                    "size": 1
+                },
+                {
+                    "name": "buck-tick",
+                    "size": 1
+                },
+                {
+                    "name": "cali≠gari",
+                    "size": 1
+                },
+                {
+                    "name": "ladytron",
+                    "size": 1
+                },
+                {
+                    "name": "iron maiden",
+                    "size": 1
+                },
+                {
+                    "name": "nitzer ebb",
+                    "size": 1
+                },
+                {
+                    "name": "the alfee",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 626
+                }
+            ]
+        },
+        {
+            "name": "fall out boy",
+            "children": [
+                {
+                    "name": "fall out boy",
+                    "size": 87
+                },
+                {
+                    "name": "paramore",
+                    "size": 54
+                },
+                {
+                    "name": "panic! at the disco",
+                    "size": 38
+                },
+                {
+                    "name": "all time low",
+                    "size": 33
+                },
+                {
+                    "name": "motion city soundtrack",
+                    "size": 27
+                },
+                {
+                    "name": "the academy is...",
+                    "size": 26
+                }
+            ]
+        },
+        {
+            "name": "bob dylan",
+            "children": [
+                {
+                    "name": "bob dylan",
+                    "size": 27
+                },
+                {
+                    "name": "wilco",
+                    "size": 24
+                },
+                {
+                    "name": "the clash",
+                    "size": 17
+                },
+                {
+                    "name": "the beatles",
+                    "size": 17
+                },
+                {
+                    "name": "bruce springsteen",
+                    "size": 13
+                },
+                {
+                    "name": "tom waits",
+                    "size": 13
+                },
+                {
+                    "name": "johnny cash",
+                    "size": 13
+                },
+                {
+                    "name": "the rolling stones",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "lil wayne",
+            "children": [
+                {
+                    "name": "lil wayne",
+                    "size": 76
+                },
+                {
+                    "name": "kanye west",
+                    "size": 74
+                },
+                {
+                    "name": "jay-z",
+                    "size": 36
+                },
+                {
+                    "name": "eminem",
+                    "size": 31
+                },
+                {
+                    "name": "nas",
+                    "size": 29
+                },
+                {
+                    "name": "lupe fiasco",
+                    "size": 28
+                }
+            ]
+        },
+        {
+            "name": "avenged sevenfold",
+            "children": [
+                {
+                    "name": "avenged sevenfold",
+                    "size": 1
+                },
+                {
+                    "name": "lamb of god",
+                    "size": 1
+                },
+                {
+                    "name": "dale north",
+                    "size": 1
+                },
+                {
+                    "name": "all that remains",
+                    "size": 1
+                },
+                {
+                    "name": "metallica",
+                    "size": 1
+                },
+                {
+                    "name": "mustard plug",
+                    "size": 1
+                },
+                {
+                    "name": "operation ivy",
+                    "size": 1
+                },
+                {
+                    "name": "beastie boys",
+                    "size": 1
+                },
+                {
+                    "name": "big d and the kids table",
+                    "size": 1
+                },
+                {
+                    "name": "system of a down",
+                    "size": 1
+                },
+                {
+                    "name": "ramones",
+                    "size": 1
+                },
+                {
+                    "name": "less than jake",
+                    "size": 1
+                },
+                {
+                    "name": "dropkick murphys",
+                    "size": 1
+                },
+                {
+                    "name": "children of bodom",
+                    "size": 1
+                },
+                {
+                    "name": "billy talent",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "trollfest",
+            "children": [
+                {
+                    "name": "trollfest",
+                    "size": 1
+                },
+                {
+                    "name": "windir",
+                    "size": 1
+                },
+                {
+                    "name": "turisas",
+                    "size": 1
+                },
+                {
+                    "name": "mr. bungle",
+                    "size": 1
+                },
+                {
+                    "name": "agalloch",
+                    "size": 1
+                },
+                {
+                    "name": "lifelover",
+                    "size": 1
+                },
+                {
+                    "name": "Ásmegin",
+                    "size": 1
+                },
+                {
+                    "name": "keep of kalessin",
+                    "size": 1
+                },
+                {
+                    "name": "eluveitie",
+                    "size": 1
+                },
+                {
+                    "name": "dalriada",
+                    "size": 1
+                },
+                {
+                    "name": "black sun aeon",
+                    "size": 1
+                },
+                {
+                    "name": "ghost brigade",
+                    "size": 1
+                },
+                {
+                    "name": "the cnk",
+                    "size": 1
+                },
+                {
+                    "name": "equilibrium",
+                    "size": 1
+                },
+                {
+                    "name": "fimbultyr",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "coldplay",
+            "children": [
+                {
+                    "name": "coldplay",
+                    "size": 121
+                },
+                {
+                    "name": "depeche mode",
+                    "size": 71
+                }
+            ]
+        },
+        {
+            "name": "mindless self indulgence",
+            "children": [
+                {
+                    "name": "mindless self indulgence",
+                    "size": 15
+                },
+                {
+                    "name": "paramore",
+                    "size": 8
+                },
+                {
+                    "name": "lady gaga",
+                    "size": 7
+                },
+                {
+                    "name": "britney spears",
+                    "size": 5
+                },
+                {
+                    "name": "lily allen",
+                    "size": 4
+                },
+                {
+                    "name": "linkin park",
+                    "size": 4
+                }
+            ]
+        }
+    ]
+}

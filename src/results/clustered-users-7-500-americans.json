@@ -1,0 +1,347 @@
+{
+    "name": "500 Last.fm Users",
+    "children": [
+        {
+            "name": "josh rouse",
+            "children": [
+                {
+                    "name": "josh rouse",
+                    "size": 1
+                },
+                {
+                    "name": "hawthorne heights",
+                    "size": 1
+                },
+                {
+                    "name": "imogen heap",
+                    "size": 1
+                },
+                {
+                    "name": "taking back sunday",
+                    "size": 1
+                },
+                {
+                    "name": "everclear",
+                    "size": 1
+                },
+                {
+                    "name": "the ataris",
+                    "size": 1
+                },
+                {
+                    "name": "unwritten law",
+                    "size": 1
+                },
+                {
+                    "name": "little feat",
+                    "size": 1
+                },
+                {
+                    "name": "jackie greene",
+                    "size": 1
+                },
+                {
+                    "name": "against me!",
+                    "size": 1
+                },
+                {
+                    "name": "aslan",
+                    "size": 1
+                },
+                {
+                    "name": "the wallflowers",
+                    "size": 1
+                },
+                {
+                    "name": "graham colton",
+                    "size": 1
+                },
+                {
+                    "name": "say anything",
+                    "size": 1
+                },
+                {
+                    "name": "gym class heroes",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 67
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 16
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 15
+                }
+            ]
+        },
+        {
+            "name": "nine inch nails",
+            "children": [
+                {
+                    "name": "nine inch nails",
+                    "size": 22
+                },
+                {
+                    "name": "metallica",
+                    "size": 10
+                },
+                {
+                    "name": "daft punk",
+                    "size": 6
+                },
+                {
+                    "name": "radiohead",
+                    "size": 6
+                },
+                {
+                    "name": "aphex twin",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 37
+                },
+                {
+                    "name": "kanye west",
+                    "size": 13
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 12
+                },
+                {
+                    "name": "the beatles",
+                    "size": 10
+                },
+                {
+                    "name": "coldplay",
+                    "size": 9
+                }
+            ]
+        },
+        {
+            "name": "depeche mode",
+            "children": [
+                {
+                    "name": "depeche mode",
+                    "size": 6
+                },
+                {
+                    "name": "the cure",
+                    "size": 5
+                },
+                {
+                    "name": "rush",
+                    "size": 3
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 3
+                },
+                {
+                    "name": "johnny cash",
+                    "size": 3
+                },
+                {
+                    "name": "r.e.m.",
+                    "size": 3
+                },
+                {
+                    "name": "they might be giants",
+                    "size": 2
+                },
+                {
+                    "name": "marillion",
+                    "size": 2
+                },
+                {
+                    "name": "kate bush",
+                    "size": 2
+                },
+                {
+                    "name": "kraftwerk",
+                    "size": 2
+                },
+                {
+                    "name": "fish",
+                    "size": 2
+                },
+                {
+                    "name": "tears for fears",
+                    "size": 2
+                },
+                {
+                    "name": "front 242",
+                    "size": 2
+                },
+                {
+                    "name": "u2",
+                    "size": 2
+                },
+                {
+                    "name": "the smashing pumpkins",
+                    "size": 2
+                },
+                {
+                    "name": "cut copy",
+                    "size": 2
+                },
+                {
+                    "name": "tegan and sara",
+                    "size": 2
+                },
+                {
+                    "name": "hot chip",
+                    "size": 2
+                },
+                {
+                    "name": "new order",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "gravitar",
+            "children": [
+                {
+                    "name": "gravitar",
+                    "size": 1
+                },
+                {
+                    "name": "breather resist",
+                    "size": 1
+                },
+                {
+                    "name": "hash jar tempo",
+                    "size": 1
+                },
+                {
+                    "name": "cheval de frise",
+                    "size": 1
+                },
+                {
+                    "name": "orthrelm",
+                    "size": 1
+                },
+                {
+                    "name": "noxagt",
+                    "size": 1
+                },
+                {
+                    "name": "an albatross",
+                    "size": 1
+                },
+                {
+                    "name": "37500 yens",
+                    "size": 1
+                },
+                {
+                    "name": "ahleuchatistas",
+                    "size": 1
+                },
+                {
+                    "name": "painkiller",
+                    "size": 1
+                },
+                {
+                    "name": "comeback kid",
+                    "size": 1
+                },
+                {
+                    "name": "coliseum",
+                    "size": 1
+                },
+                {
+                    "name": "ruins",
+                    "size": 1
+                },
+                {
+                    "name": "death from above 1979",
+                    "size": 1
+                },
+                {
+                    "name": "isis",
+                    "size": 1
+                },
+                {
+                    "name": "torche",
+                    "size": 1
+                },
+                {
+                    "name": "bozart",
+                    "size": 1
+                },
+                {
+                    "name": "arab on radar",
+                    "size": 1
+                },
+                {
+                    "name": "nels cline",
+                    "size": 1
+                },
+                {
+                    "name": "the flying luttenbachers",
+                    "size": 1
+                },
+                {
+                    "name": "akimbo",
+                    "size": 1
+                },
+                {
+                    "name": "minus the bear",
+                    "size": 1
+                },
+                {
+                    "name": "hot water music",
+                    "size": 1
+                },
+                {
+                    "name": "young widows",
+                    "size": 1
+                },
+                {
+                    "name": "the detachment kit",
+                    "size": 1
+                },
+                {
+                    "name": "hot snakes",
+                    "size": 1
+                },
+                {
+                    "name": "mouthus",
+                    "size": 1
+                },
+                {
+                    "name": "these arms are snakes",
+                    "size": 1
+                },
+                {
+                    "name": "cave in",
+                    "size": 1
+                },
+                {
+                    "name": "yowie",
+                    "size": 1
+                }
+            ]
+        }
+    ]
+}

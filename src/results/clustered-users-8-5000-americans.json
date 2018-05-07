@@ -1,0 +1,200 @@
+{
+    "name": "5000 Last.fm Users",
+    "children": [
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 555
+                },
+                {
+                    "name": "bob dylan",
+                    "size": 124
+                },
+                {
+                    "name": "radiohead",
+                    "size": 123
+                }
+            ]
+        },
+        {
+            "name": "brand new",
+            "children": [
+                {
+                    "name": "brand new",
+                    "size": 124
+                },
+                {
+                    "name": "fall out boy",
+                    "size": 95
+                },
+                {
+                    "name": "coldplay",
+                    "size": 71
+                }
+            ]
+        },
+        {
+            "name": "elliott smith",
+            "children": [
+                {
+                    "name": "elliott smith",
+                    "size": 86
+                },
+                {
+                    "name": "bright eyes",
+                    "size": 71
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 41
+                },
+                {
+                    "name": "the beatles",
+                    "size": 36
+                },
+                {
+                    "name": "radiohead",
+                    "size": 33
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 24
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 24
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 298
+                },
+                {
+                    "name": "the beatles",
+                    "size": 82
+                }
+            ]
+        },
+        {
+            "name": "wu-tang clan",
+            "children": [
+                {
+                    "name": "wu-tang clan",
+                    "size": 1
+                },
+                {
+                    "name": "kanye west",
+                    "size": 1
+                },
+                {
+                    "name": "ghostface",
+                    "size": 1
+                },
+                {
+                    "name": "flo rida",
+                    "size": 1
+                },
+                {
+                    "name": "madvillain",
+                    "size": 1
+                },
+                {
+                    "name": "lusine",
+                    "size": 1
+                },
+                {
+                    "name": "scratch massive",
+                    "size": 1
+                },
+                {
+                    "name": "simian mobile disco",
+                    "size": 1
+                },
+                {
+                    "name": "ub40",
+                    "size": 1
+                },
+                {
+                    "name": "digitalism",
+                    "size": 1
+                },
+                {
+                    "name": "npr",
+                    "size": 1
+                },
+                {
+                    "name": "yves larock",
+                    "size": 1
+                },
+                {
+                    "name": "hot chip",
+                    "size": 1
+                },
+                {
+                    "name": "timbaland",
+                    "size": 1
+                },
+                {
+                    "name": "camron",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "death cab for cutie",
+            "children": [
+                {
+                    "name": "death cab for cutie",
+                    "size": 234
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 175
+                },
+                {
+                    "name": "the decemberists",
+                    "size": 110
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 100
+                },
+                {
+                    "name": "iron & wine",
+                    "size": 97
+                },
+                {
+                    "name": "radiohead",
+                    "size": 94
+                }
+            ]
+        },
+        {
+            "name": "nine inch nails",
+            "children": [
+                {
+                    "name": "nine inch nails",
+                    "size": 68
+                },
+                {
+                    "name": "marilyn manson",
+                    "size": 20
+                },
+                {
+                    "name": "radiohead",
+                    "size": 13
+                }
+            ]
+        }
+    ]
+}

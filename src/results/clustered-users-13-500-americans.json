@@ -1,0 +1,949 @@
+{
+    "name": "500 Last.fm Users",
+    "children": [
+        {
+            "name": "the dismemberment plan",
+            "children": [
+                {
+                    "name": "the dismemberment plan",
+                    "size": 1
+                },
+                {
+                    "name": "pinback",
+                    "size": 1
+                },
+                {
+                    "name": "pavement",
+                    "size": 1
+                },
+                {
+                    "name": "engine down",
+                    "size": 1
+                },
+                {
+                    "name": "french kicks",
+                    "size": 1
+                },
+                {
+                    "name": "floor",
+                    "size": 1
+                },
+                {
+                    "name": "outkast",
+                    "size": 1
+                },
+                {
+                    "name": "mewithoutyou",
+                    "size": 1
+                },
+                {
+                    "name": "...and you will know us by the trail of dead",
+                    "size": 1
+                },
+                {
+                    "name": "torche",
+                    "size": 1
+                },
+                {
+                    "name": "del tha funkee homosapien",
+                    "size": 1
+                },
+                {
+                    "name": "three 6 mafia",
+                    "size": 1
+                },
+                {
+                    "name": "minus the bear",
+                    "size": 1
+                },
+                {
+                    "name": "cursive",
+                    "size": 1
+                },
+                {
+                    "name": "these arms are snakes",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "jack johnson",
+            "children": [
+                {
+                    "name": "jack johnson",
+                    "size": 7
+                },
+                {
+                    "name": "sublime",
+                    "size": 4
+                },
+                {
+                    "name": "john mayer",
+                    "size": 3
+                },
+                {
+                    "name": "kanye west",
+                    "size": 3
+                },
+                {
+                    "name": "paramore",
+                    "size": 3
+                },
+                {
+                    "name": "jason mraz",
+                    "size": 3
+                },
+                {
+                    "name": "the killers",
+                    "size": 3
+                },
+                {
+                    "name": "u2",
+                    "size": 3
+                },
+                {
+                    "name": "radiohead",
+                    "size": 3
+                },
+                {
+                    "name": "bob marley & the wailers",
+                    "size": 3
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 2
+                },
+                {
+                    "name": "daft punk",
+                    "size": 2
+                },
+                {
+                    "name": "dr. dre",
+                    "size": 2
+                },
+                {
+                    "name": "michael bublé",
+                    "size": 2
+                },
+                {
+                    "name": "red hot chili peppers",
+                    "size": 2
+                },
+                {
+                    "name": "snow patrol",
+                    "size": 2
+                },
+                {
+                    "name": "311",
+                    "size": 2
+                },
+                {
+                    "name": "coldplay",
+                    "size": 2
+                },
+                {
+                    "name": "sarah mclachlan",
+                    "size": 2
+                },
+                {
+                    "name": "incubus",
+                    "size": 2
+                },
+                {
+                    "name": "atmosphere",
+                    "size": 2
+                },
+                {
+                    "name": "garbage",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 30
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 7
+                },
+                {
+                    "name": "led zeppelin",
+                    "size": 6
+                },
+                {
+                    "name": "radiohead",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "name": "tool",
+            "children": [
+                {
+                    "name": "tool",
+                    "size": 8
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 6
+                },
+                {
+                    "name": "a perfect circle",
+                    "size": 5
+                },
+                {
+                    "name": "porcupine tree",
+                    "size": 3
+                },
+                {
+                    "name": "lamb of god",
+                    "size": 3
+                },
+                {
+                    "name": "dredg",
+                    "size": 3
+                },
+                {
+                    "name": "killswitch engage",
+                    "size": 3
+                },
+                {
+                    "name": "in flames",
+                    "size": 2
+                },
+                {
+                    "name": "disturbed",
+                    "size": 2
+                },
+                {
+                    "name": "down",
+                    "size": 2
+                },
+                {
+                    "name": "deftones",
+                    "size": 2
+                },
+                {
+                    "name": "apocalyptica",
+                    "size": 2
+                },
+                {
+                    "name": "pink floyd",
+                    "size": 2
+                },
+                {
+                    "name": "placebo",
+                    "size": 2
+                },
+                {
+                    "name": "10 years",
+                    "size": 2
+                },
+                {
+                    "name": "opeth",
+                    "size": 2
+                },
+                {
+                    "name": "kyuss",
+                    "size": 2
+                },
+                {
+                    "name": "infected mushroom",
+                    "size": 2
+                },
+                {
+                    "name": "sigur rós",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "against me!",
+            "children": [
+                {
+                    "name": "against me!",
+                    "size": 7
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 7
+                },
+                {
+                    "name": "alkaline trio",
+                    "size": 6
+                },
+                {
+                    "name": "andrew jackson jihad",
+                    "size": 4
+                },
+                {
+                    "name": "of montreal",
+                    "size": 4
+                },
+                {
+                    "name": "the bouncing souls",
+                    "size": 3
+                },
+                {
+                    "name": "rise against",
+                    "size": 3
+                },
+                {
+                    "name": "brand new",
+                    "size": 3
+                },
+                {
+                    "name": "the beatles",
+                    "size": 3
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 3
+                },
+                {
+                    "name": "hot water music",
+                    "size": 3
+                },
+                {
+                    "name": "nofx",
+                    "size": 3
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 2
+                },
+                {
+                    "name": "bad religion",
+                    "size": 2
+                },
+                {
+                    "name": "afi",
+                    "size": 2
+                },
+                {
+                    "name": "beck",
+                    "size": 2
+                },
+                {
+                    "name": "pinback",
+                    "size": 2
+                },
+                {
+                    "name": "underoath",
+                    "size": 2
+                },
+                {
+                    "name": "the shins",
+                    "size": 2
+                },
+                {
+                    "name": "bruce springsteen",
+                    "size": 2
+                },
+                {
+                    "name": "bright eyes",
+                    "size": 2
+                },
+                {
+                    "name": "at the drive-in",
+                    "size": 2
+                },
+                {
+                    "name": "the used",
+                    "size": 2
+                },
+                {
+                    "name": "spoon",
+                    "size": 2
+                },
+                {
+                    "name": "the clash",
+                    "size": 2
+                },
+                {
+                    "name": "the mountain goats",
+                    "size": 2
+                },
+                {
+                    "name": "chuck ragan",
+                    "size": 2
+                },
+                {
+                    "name": "mgmt",
+                    "size": 2
+                },
+                {
+                    "name": "the lawrence arms",
+                    "size": 2
+                },
+                {
+                    "name": "tv on the radio",
+                    "size": 2
+                },
+                {
+                    "name": "descendents",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "blink-182",
+            "children": [
+                {
+                    "name": "blink-182",
+                    "size": 12
+                },
+                {
+                    "name": "new found glory",
+                    "size": 12
+                },
+                {
+                    "name": "fall out boy",
+                    "size": 11
+                },
+                {
+                    "name": "bright eyes",
+                    "size": 9
+                },
+                {
+                    "name": "taking back sunday",
+                    "size": 6
+                },
+                {
+                    "name": "saves the day",
+                    "size": 6
+                },
+                {
+                    "name": "brand new",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "name": "lil' wayne",
+            "children": [
+                {
+                    "name": "lil' wayne",
+                    "size": 13
+                },
+                {
+                    "name": "kanye west",
+                    "size": 12
+                },
+                {
+                    "name": "t.i.",
+                    "size": 9
+                },
+                {
+                    "name": "jay-z",
+                    "size": 9
+                },
+                {
+                    "name": "the game",
+                    "size": 7
+                },
+                {
+                    "name": "the beatles",
+                    "size": 7
+                },
+                {
+                    "name": "radiohead",
+                    "size": 6
+                },
+                {
+                    "name": "eminem",
+                    "size": 6
+                },
+                {
+                    "name": "50 cent",
+                    "size": 5
+                },
+                {
+                    "name": "nas",
+                    "size": 5
+                },
+                {
+                    "name": "pink floyd",
+                    "size": 4
+                },
+                {
+                    "name": "lupe fiasco",
+                    "size": 4
+                },
+                {
+                    "name": "notorious b.i.g.",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "nine inch nails",
+            "children": [
+                {
+                    "name": "nine inch nails",
+                    "size": 12
+                },
+                {
+                    "name": "aphex twin",
+                    "size": 5
+                },
+                {
+                    "name": "sublime",
+                    "size": 3
+                },
+                {
+                    "name": "radiohead",
+                    "size": 3
+                },
+                {
+                    "name": "the smashing pumpkins",
+                    "size": 3
+                },
+                {
+                    "name": "gorillaz",
+                    "size": 3
+                },
+                {
+                    "name": "daft punk",
+                    "size": 2
+                },
+                {
+                    "name": "mindless self indulgence",
+                    "size": 2
+                },
+                {
+                    "name": "squarepusher",
+                    "size": 2
+                },
+                {
+                    "name": "marilyn manson",
+                    "size": 2
+                },
+                {
+                    "name": "rise against",
+                    "size": 2
+                },
+                {
+                    "name": "foo fighters",
+                    "size": 2
+                },
+                {
+                    "name": "boards of canada",
+                    "size": 2
+                },
+                {
+                    "name": "saul williams",
+                    "size": 2
+                },
+                {
+                    "name": "booka shade",
+                    "size": 2
+                },
+                {
+                    "name": "bob marley & the wailers",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 29
+                },
+                {
+                    "name": "the beatles",
+                    "size": 7
+                },
+                {
+                    "name": "boards of canada",
+                    "size": 6
+                },
+                {
+                    "name": "the decemberists",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "name": "guster",
+            "children": [
+                {
+                    "name": "guster",
+                    "size": 3
+                },
+                {
+                    "name": "tegan and sara",
+                    "size": 3
+                },
+                {
+                    "name": "death cab for cutie",
+                    "size": 2
+                },
+                {
+                    "name": "barenaked ladies",
+                    "size": 2
+                },
+                {
+                    "name": "the beatles",
+                    "size": 2
+                },
+                {
+                    "name": "jimmy eat world",
+                    "size": 2
+                },
+                {
+                    "name": "mogwai",
+                    "size": 2
+                },
+                {
+                    "name": "elliott smith",
+                    "size": 1
+                },
+                {
+                    "name": "cat power",
+                    "size": 1
+                },
+                {
+                    "name": "blink-182",
+                    "size": 1
+                },
+                {
+                    "name": "andrew bird",
+                    "size": 1
+                },
+                {
+                    "name": "green day",
+                    "size": 1
+                },
+                {
+                    "name": "bishop allen",
+                    "size": 1
+                },
+                {
+                    "name": "murder by death",
+                    "size": 1
+                },
+                {
+                    "name": "the b-52's",
+                    "size": 1
+                },
+                {
+                    "name": "john mayer",
+                    "size": 1
+                },
+                {
+                    "name": "afi",
+                    "size": 1
+                },
+                {
+                    "name": "sam phillips",
+                    "size": 1
+                },
+                {
+                    "name": "travis",
+                    "size": 1
+                },
+                {
+                    "name": "3 doors down",
+                    "size": 1
+                },
+                {
+                    "name": "broken social scene",
+                    "size": 1
+                },
+                {
+                    "name": "sia",
+                    "size": 1
+                },
+                {
+                    "name": "godspeed you! black emperor",
+                    "size": 1
+                },
+                {
+                    "name": "gregor samsa",
+                    "size": 1
+                },
+                {
+                    "name": "dufus",
+                    "size": 1
+                },
+                {
+                    "name": "holly golightly & the brokeoffs",
+                    "size": 1
+                },
+                {
+                    "name": "explosions in the sky",
+                    "size": 1
+                },
+                {
+                    "name": "low",
+                    "size": 1
+                },
+                {
+                    "name": "kaki king",
+                    "size": 1
+                },
+                {
+                    "name": "ben folds",
+                    "size": 1
+                },
+                {
+                    "name": "a silver mt. zion",
+                    "size": 1
+                },
+                {
+                    "name": "cat stevens",
+                    "size": 1
+                },
+                {
+                    "name": "why?",
+                    "size": 1
+                },
+                {
+                    "name": "the appleseed cast",
+                    "size": 1
+                },
+                {
+                    "name": "jeffrey lewis",
+                    "size": 1
+                },
+                {
+                    "name": "the shins",
+                    "size": 1
+                },
+                {
+                    "name": "bowerbirds",
+                    "size": 1
+                },
+                {
+                    "name": "blind guardian",
+                    "size": 1
+                },
+                {
+                    "name": "daniel johnston",
+                    "size": 1
+                },
+                {
+                    "name": "robert johnson",
+                    "size": 1
+                },
+                {
+                    "name": "red hot chili peppers",
+                    "size": 1
+                },
+                {
+                    "name": "this will destroy you",
+                    "size": 1
+                },
+                {
+                    "name": "taken by trees",
+                    "size": 1
+                },
+                {
+                    "name": "sondre lerche",
+                    "size": 1
+                },
+                {
+                    "name": "city of caterpillar",
+                    "size": 1
+                },
+                {
+                    "name": "the world/inferno friendship society",
+                    "size": 1
+                },
+                {
+                    "name": "snow patrol",
+                    "size": 1
+                },
+                {
+                    "name": "feist",
+                    "size": 1
+                },
+                {
+                    "name": "ani difranco",
+                    "size": 1
+                },
+                {
+                    "name": "silverchair",
+                    "size": 1
+                },
+                {
+                    "name": "silversun pickups",
+                    "size": 1
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 1
+                },
+                {
+                    "name": "nada surf",
+                    "size": 1
+                },
+                {
+                    "name": "train",
+                    "size": 1
+                },
+                {
+                    "name": "coldplay",
+                    "size": 1
+                },
+                {
+                    "name": "matt pond pa",
+                    "size": 1
+                },
+                {
+                    "name": "cocorosie",
+                    "size": 1
+                },
+                {
+                    "name": "incubus",
+                    "size": 1
+                },
+                {
+                    "name": "mirah",
+                    "size": 1
+                },
+                {
+                    "name": "john prine",
+                    "size": 1
+                },
+                {
+                    "name": "rilo kiley",
+                    "size": 1
+                },
+                {
+                    "name": "jethro tull",
+                    "size": 1
+                },
+                {
+                    "name": "gogol bordello",
+                    "size": 1
+                },
+                {
+                    "name": "linkin park",
+                    "size": 1
+                },
+                {
+                    "name": "cake",
+                    "size": 1
+                },
+                {
+                    "name": "regina spektor",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "prince",
+            "children": [
+                {
+                    "name": "prince",
+                    "size": 1
+                },
+                {
+                    "name": "gin blossoms",
+                    "size": 1
+                },
+                {
+                    "name": "metallica",
+                    "size": 1
+                },
+                {
+                    "name": "rascal flatts",
+                    "size": 1
+                },
+                {
+                    "name": "kasey chambers",
+                    "size": 1
+                },
+                {
+                    "name": "pink floyd",
+                    "size": 1
+                },
+                {
+                    "name": "the killers",
+                    "size": 1
+                },
+                {
+                    "name": "counting crows",
+                    "size": 1
+                },
+                {
+                    "name": "john gorka",
+                    "size": 1
+                },
+                {
+                    "name": "savatage",
+                    "size": 1
+                },
+                {
+                    "name": "sixx:a.m.",
+                    "size": 1
+                },
+                {
+                    "name": "garth brooks",
+                    "size": 1
+                },
+                {
+                    "name": "nine inch nails",
+                    "size": 1
+                },
+                {
+                    "name": "ellis paul",
+                    "size": 1
+                },
+                {
+                    "name": "johnny cash",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "death cab for cutie",
+            "children": [
+                {
+                    "name": "death cab for cutie",
+                    "size": 34
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 19
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 15
+                },
+                {
+                    "name": "the beatles",
+                    "size": 13
+                },
+                {
+                    "name": "the decemberists",
+                    "size": 12
+                },
+                {
+                    "name": "radiohead",
+                    "size": 10
+                },
+                {
+                    "name": "coldplay",
+                    "size": 10
+                },
+                {
+                    "name": "bright eyes",
+                    "size": 9
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "name": "5000 Last.fm Users",
+    "children": [
+        {
+            "name": "metallica",
+            "children": [
+                {
+                    "name": "metallica",
+                    "size": 77
+                },
+                {
+                    "name": "iron maiden",
+                    "size": 51
+                },
+                {
+                    "name": "megadeth",
+                    "size": 28
+                },
+                {
+                    "name": "pink floyd",
+                    "size": 19
+                }
+            ]
+        },
+        {
+            "name": "death cab for cutie",
+            "children": [
+                {
+                    "name": "death cab for cutie",
+                    "size": 218
+                },
+                {
+                    "name": "bright eyes",
+                    "size": 124
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 115
+                },
+                {
+                    "name": "elliott smith",
+                    "size": 68
+                },
+                {
+                    "name": "sufjan stevens",
+                    "size": 67
+                },
+                {
+                    "name": "the beatles",
+                    "size": 59
+                }
+            ]
+        },
+        {
+            "name": "nine inch nails",
+            "children": [
+                {
+                    "name": "nine inch nails",
+                    "size": 123
+                },
+                {
+                    "name": "marilyn manson",
+                    "size": 28
+                },
+                {
+                    "name": "tool",
+                    "size": 27
+                },
+                {
+                    "name": "radiohead",
+                    "size": 27
+                }
+            ]
+        },
+        {
+            "name": "",
+            "children": []
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 479
+                },
+                {
+                    "name": "the beatles",
+                    "size": 129
+                }
+            ]
+        },
+        {
+            "name": "the beatles",
+            "children": [
+                {
+                    "name": "the beatles",
+                    "size": 280
+                },
+                {
+                    "name": "radiohead",
+                    "size": 76
+                },
+                {
+                    "name": "pink floyd",
+                    "size": 61
+                }
+            ]
+        },
+        {
+            "name": "bruce springsteen",
+            "children": [
+                {
+                    "name": "bruce springsteen",
+                    "size": 2
+                },
+                {
+                    "name": "john mellencamp",
+                    "size": 1
+                },
+                {
+                    "name": "stray cats",
+                    "size": 1
+                },
+                {
+                    "name": "foreigner",
+                    "size": 1
+                },
+                {
+                    "name": "jimmy buffett",
+                    "size": 1
+                },
+                {
+                    "name": "the byrds",
+                    "size": 1
+                },
+                {
+                    "name": "enrique iglesias",
+                    "size": 1
+                },
+                {
+                    "name": "the brian setzer orchestra",
+                    "size": 1
+                },
+                {
+                    "name": "casting crowns",
+                    "size": 1
+                },
+                {
+                    "name": "chet atkins",
+                    "size": 1
+                },
+                {
+                    "name": "bruce springsteen & the e street band",
+                    "size": 1
+                },
+                {
+                    "name": "tom petty",
+                    "size": 1
+                },
+                {
+                    "name": "bon jovi",
+                    "size": 1
+                },
+                {
+                    "name": "dire straits",
+                    "size": 1
+                },
+                {
+                    "name": "brian setzer",
+                    "size": 1
+                },
+                {
+                    "name": "colin hay",
+                    "size": 1
+                },
+                {
+                    "name": "rick springfield",
+                    "size": 1
+                },
+                {
+                    "name": "warren zevon",
+                    "size": 1
+                },
+                {
+                    "name": "the who",
+                    "size": 1
+                },
+                {
+                    "name": "john boy & billy",
+                    "size": 1
+                },
+                {
+                    "name": "radiohead",
+                    "size": 1
+                },
+                {
+                    "name": "the rolling stones",
+                    "size": 1
+                },
+                {
+                    "name": "garth brooks",
+                    "size": 1
+                },
+                {
+                    "name": "bowling for soup",
+                    "size": 1
+                },
+                {
+                    "name": "blue Öyster cult",
+                    "size": 1
+                },
+                {
+                    "name": "brooklyn tabernacle choir",
+                    "size": 1
+                },
+                {
+                    "name": "johnny cash",
+                    "size": 1
+                },
+                {
+                    "name": "bruce hornsby",
+                    "size": 1
+                },
+                {
+                    "name": "rich mullins",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "blink-182",
+            "children": [
+                {
+                    "name": "blink-182",
+                    "size": 91
+                },
+                {
+                    "name": "brand new",
+                    "size": 57
+                },
+                {
+                    "name": "new found glory",
+                    "size": 46
+                },
+                {
+                    "name": "saves the day",
+                    "size": 37
+                },
+                {
+                    "name": "fall out boy",
+                    "size": 33
+                },
+                {
+                    "name": "taking back sunday",
+                    "size": 30
+                }
+            ]
+        },
+        {
+            "name": "radiohead",
+            "children": [
+                {
+                    "name": "radiohead",
+                    "size": 61
+                },
+                {
+                    "name": "the beatles",
+                    "size": 24
+                },
+                {
+                    "name": "modest mouse",
+                    "size": 13
+                },
+                {
+                    "name": "coldplay",
+                    "size": 12
+                },
+                {
+                    "name": "sigur rós",
+                    "size": 12
+                }
+            ]
+        },
+        {
+            "name": "bob dylan",
+            "children": [
+                {
+                    "name": "bob dylan",
+                    "size": 183
+                },
+                {
+                    "name": "the beatles",
+                    "size": 103
+                },
+                {
+                    "name": "tom waits",
+                    "size": 42
+                }
+            ]
+        }
+    ]
+}
