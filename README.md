@@ -2,6 +2,7 @@
 ### Tyler Angert, Angela He, Rahul Nair
 
 ## Project structure
+The repository for this project can be found [here](https://github.com/project-spool/final-submission)
 
 ```
 |--data
@@ -23,13 +24,11 @@
 Some of the data files are pretty large for this, so we uploaded the relevant ones to an Amazon S3 bucket for you to download. The program won't work unless you place them into the proper directories.
 
 ### Links
-https://s3.amazonaws.com/project-spool-data/user-artist-df-pickle.pkl
-https://s3.amazonaws.com/project-spool-data/user-id-groups.pkl
+[user artist data](https://s3.amazonaws.com/project-spool-data/user-artist-df-pickle.pkl), [user id groups](https://s3.amazonaws.com/project-spool-data/user-id-groups.pkl) 
 
 So, drag both of these `.pkl` files into the `data/pickles` folder, and you should be good to go. The other data sets are already included in the `data` folder.
 
-For reference, here is the original data set:
-http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-360K.html
+For reference, [here](http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-360K.html) is the original data set.
 
 ## Clustering Compilation
 Once you `cd` into the `src` folder, simply run `python3 pipeline.py` and make sure your computer has python 3.6.4 installed (this was developed using the Anaconda python distribution).
